@@ -2,4 +2,4 @@
 
 Slika pinout konfiguracije
 
-!(PINOUT_config.png)
+![pinoutconfig](PINOUT_config.png)
